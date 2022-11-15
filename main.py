@@ -4,7 +4,7 @@ translator = pipeline("translation_ru_to_en", model="Helsinki-NLP/opus-mt-ru-en"
 translation = translator("Это проект по программной инженерии студентов УрФУ Шухардина Александра и Эмиля Афлатунова")
 print(translation)
 '''
-
+#PZ_2
 from tensorflow.keras.applications import EfficientNetB0
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.applications.efficientnet import preprocess_input
