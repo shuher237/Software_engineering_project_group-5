@@ -48,4 +48,5 @@
 
 [**⬆**](#table-of-contents) *to the contents*
 
-Если информация по этому проекту покажется вам интересной или полезной, то мы будем очень вам благодарны, если отметите репозиторий и профили ⭐️⭐️⭐️-дами.
+
+Please, rate this project with ⭐️-s if you consider its interesting or useful.
