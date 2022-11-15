@@ -1,1 +1,51 @@
-# Software_engineering_project_group-5
+# **Software engineering project group-5**
+
+## **Runtime**
+*Python 3.10.6*
+
+## **Table of contents**
+[1. Project description](#project-description)  
+[2. Which case is being solved](#which-case-is-being-solved)  
+[3. Data information](#data-information)  
+[4. Project stages](#project-stages)  
+[5. Results](#results)  
+[6. Conclusions](#conclusions)  
+
+### **Project description**
+   
+
+[**⬆**](#table-of-contents) *to the contents*
+
+### **Which case is being solved**
+   
+
+**Task conditions**
+   
+
+**Quality metrics**  
+   
+
+**What is being pracrticed**
+   
+
+### **Data information**
+   
+
+[**⬆**](#table-of-contents) *to the contents*
+
+### **Project stages**
+   
+
+[**⬆**](#table-of-contents) *to the contents*
+
+### **Results:**
+   
+
+[**⬆**](#table-of-contents) *to the contents*
+
+### **Conclusions:**
+   
+
+[**⬆**](#table-of-contents) *to the contents*
+
+Если информация по этому проекту покажется вам интересной или полезной, то мы будем очень вам благодарны, если отметите репозиторий и профили ⭐️⭐️⭐️-дами.
